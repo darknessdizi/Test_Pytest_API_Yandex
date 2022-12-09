@@ -28,3 +28,4 @@ if __name__ == '__main__':
 
      for element in filter_the_list(geo_logs):
           print(element)
+     
